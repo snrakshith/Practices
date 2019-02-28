@@ -2,5 +2,5 @@
 # Practices of various Languages and the Algorithms Exercises
 
 ## It includes  
-    * Python
-    * GoLang
+    -  Python
+   
