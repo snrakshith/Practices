@@ -3,4 +3,5 @@
 
 ## It includes:  
     -  Python
+    -  JavaScript
    
